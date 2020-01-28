@@ -1,1 +1,1 @@
-This repository is for Holberton School. 
+This repository is for Holberton School
