@@ -1,1 +1,1 @@
-This repository is for 0x03-git
+This repository is for 0x03-git at Holberton
